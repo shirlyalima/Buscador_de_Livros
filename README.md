@@ -1,6 +1,7 @@
 # 📚 Sistema de Busca de Livros
 
 Este é um projeto simples de busca de livros utilizando a API do Google Books, com funcionalidades de favoritar livros e foco em acessibilidade.
+![](https://github.com/shirlyalima/Buscador_de_Livros/blob/5ee1c8d5421b10b575a3c60331b385fc0201b2a4/exemplo%20do%20projeto.gif)
 
 ## 🚀 Funcionalidades
 
